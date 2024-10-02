@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manupriya-Vayalambron
-- 👀 I’m interested in Anchoring, Python Coding and C Programming (as of now)
+- 👀 I’m interested in Exploring new technologies/upgrades, Anchoring, Taking Tuitions/Sessions & Travelling (as of now)
 - 🌱 I’m currently learning electronics integration for IT projects
 - 🤝 I’m looking to collaborate on ML/DL/Object Detection Projects
 - 📫 How to reach me: manupriyadhanushvayalambron@gmail.com
