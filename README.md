@@ -39,6 +39,4 @@
 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=Manupriya-Vayalambron&theme=radical)
 
-## Typing Animation
-
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome!)
