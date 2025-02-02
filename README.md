@@ -1,16 +1,22 @@
 # Manupriya Vayalambron
 
-![Animated Cartoon](https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b95289irpjkgel6y5o17jns2oi1blkgmnamy40eq10b4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g) <!-- Add your animated cartoon GIF link here -->
+<div align="center">
+  <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b95289irpjkgel6y5o17jns2oi1blkgmnamy40eq10b4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Animated Cartoon">
+  
+  **👋 Hi, I'm Manupriya Dhanush Vayalambron!**
+</div>
 
-👋 Hi, I'm @Manupriya-Vayalambron!
+## About Me
+
+![About Me](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&width=435&lines=I’m+interested+in+exploring+new+technologies%2Fupgrades%2C+anchoring%2C+and+travelling!)
 
 - **👧 Pronouns:** she/her
 - **🙋‍♀️ About Me:** I’m interested in exploring new technologies/upgrades, anchoring, taking tuitions/sessions, and travelling (as of now).
-- **💻 Currently Working On:** Electronics integration for IT projects.
-- **🔍 I’m looking to collaborate on:** ML/DL/Object Detection Projects.
-- **🤭 Fun Fact:** I always have a bunch of snacks, and you can see me munching even during lectures (in front of the professor).
-- **📧 Email:** manupriyadhanushvayalambron@gmail.com
-- **📍 Resume:** [ManupriyaDhanushVayalambron](https://drive.google.com/file/d/1YxbtacAskXbfcjQmwNBSUBo2zjNwyB72/view?usp=drivesdk)
+- **💻 Currently Working On:** ![Working On](https://img.shields.io/badge/Electronics%20Integration-IT%20Projects-blue) Electronics integration for IT projects.
+- **🔍 I’m looking to collaborate on:** ![Collaborate](https://img.shields.io/badge/ML%2FDL%2FObject%20Detection-Projects-green) ML/DL/Object Detection Projects.
+- **🤭 Fun Fact:** ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Snacks%20Lover-orange) I always have a bunch of snacks, and you can see me munching even during lectures (in front of the professor).
+- **📧 Email:** ![Email](https://img.shields.io/badge/Email-manupriyadhanushvayalambron%40gmail.com-red) manupriyadhanushvayalambron@gmail.com
+- **📍 Resume:** [![Resume](https://img.shields.io/badge/Resume-ManupriyaDhanushVayalambron-blue)](https://drive.google.com/file/d/1YxbtacAskXbfcjQmwNBSUBo2zjNwyB72/view?usp=drivesdk)
 
 ## Socials
 
@@ -28,6 +34,8 @@
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manupriya-Vayalambron&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Manupriya-Vayalambron&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manupriya-Vayalambron&layout=compact&theme=radical)
 
