@@ -1,5 +1,7 @@
 # Manupriya Vayalambron
 
+![Animated Cartoon](https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b95289irpjkgel6y5o17jns2oi1blkgmnamy40eq10b4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g) <!-- Add your animated cartoon GIF link here -->
+
 👋 Hi, I'm @Manupriya-Vayalambron!
 
 - **👧 Pronouns:** she/her
@@ -29,11 +31,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manupriya-Vayalambron&layout=compact&theme=radical)
 
+## Contribution Graph
+
+[![Manupriya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manupriya-Vayalambron&theme=react-dark)](https://github.com/Manupriya-Vayalambron)
+
 ## Achievements
 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=Manupriya-Vayalambron&theme=radical)
 
-<!---
-Manupriya-Vayalambron/Manupriya-Vayalambron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Typing Animation
+
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome!)
